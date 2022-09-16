@@ -1,0 +1,10 @@
+{
+    "UploadSvrConfig": {
+        "nListenPort": 12600,
+        "dstFolderPath": "./www_root"
+    },
+    "DownloadSvrConfig": {
+        "nListenPort": 12300
+    }
+    
+}
